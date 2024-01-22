@@ -1,4 +1,4 @@
-# NextBrain: Cas 4
+# NextBrain: Case 4
 This repository contains data that is consumed by the [NextBrain project](https://github.com/UCL/NextBrain). This data corresponds to patient P85-18. For the source code of this project refer to the main [NextBrain repo](https://github.com/UCL/NextBrain).
 
 ## Data structure
